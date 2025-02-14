@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 
 ### Módulos impartidos en el curso 2024/25
 
-- **Entornos de Desarrollo** en 1º de DAM y 1º de DAW
-- **Programación** en 1º de DAW
-- **Administración de Sistemas Gestores de Bases de Datos** en 2º de ASIR
-
+- **[Entornos de Desarrollo](https://github.com/danielmartinan/entornos-desarrollo_2024-25)** en 1º de DAM y 1º de DAW
+- **[Programación](https://github.com/danielmartinan/programacion)** en 1º de DAW
+- **[Administración de Sistemas Gestores de Bases de Datos](https://github.com/danielmartinan/asgdb_2024-25)** en 2º de ASIR
