@@ -1,4 +1,4 @@
-![Header](./github-header-image.png) 
+![Header](./github-header-image_V2.png) 
 
 # 👋 Hola, soy Daniel Martiñán
 
