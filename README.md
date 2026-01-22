@@ -48,6 +48,14 @@ Here are some ideas to get you started:
 
 ## Docencia
 
+### Módulos impartidos en el curso 2025/26 ([IES Armando Cotarelo Valledor](https://www.iescotarelo.es/)
+
+- **[Entornos de Desarrollo](https://contornos-desenvolvemento-2025-26.vercel.app/)** en 1º de DAW
+- **[Lenguajes de Marcas y Sistemas de Gestión de la Información](https://linguaxes-marcas-2025-26.vercel.app/)** en 1º de DAW y en 1º de ASIR
+- **[Digitalización Aplicada a los Sectores productivos - Grado Superior](https://dixitalizacion-gs-2025-26.vercel.app/)** en 2º de DAM y en 2º de Administración y Finanzas
+- **[Digitalización Aplicada a los Sectores productivos - Grado Medio](https://dixitalizacion-gm-2025-26.vercel.app/)** en 2º de Gestión Administrativa
+- **[Despliegue de Aplicaciones Web](https://despregamento-2025-26.vercel.app/)** en 2º de DAW
+
 ### Módulos impartidos en el curso 2024/25 ([IES de Teis](https://www.edu.xunta.gal/centros/iesteis/))
 
 - **[Entornos de Desarrollo](https://github.com/danielmartinan/entornos_desarrollo_2024-25)** en 1º de DAM y 1º de DAW
