@@ -48,6 +48,12 @@ Here are some ideas to get you started:
 
 ## Docencia
 
+### Módulos impartidos en el curso 2026/27 ([IES Armando Cotarelo Valledor](https://www.iescotarelo.es/)
+
+- **[Entornos de Desarrollo](https://danielmartinan.github.io/contornos_desenvolvemento_2026-27/)** en 1º de DAM
+- **[Programación](https://danielmartinan.github.io/Programacion_docusaurus/)** en 1º de DAM
+- **[Despliegue de Aplicaciones Web](https://danielmartinan.github.io/despregamento_2026-27/)** en 2º de DAW
+
 ### Módulos impartidos en el curso 2025/26 ([IES Armando Cotarelo Valledor](https://www.iescotarelo.es/)
 
 - **[Entornos de Desarrollo](https://contornos-desenvolvemento-2025-26.vercel.app/)** en 1º de DAW
